@@ -129,6 +129,15 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
+/* Laptop - 1024px */
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+
+    .container {
+        width: 1024px;
+    }
+    
+}
+
  /* Tablet - 768px */
 @media screen and (max-width: 768px) {
 
